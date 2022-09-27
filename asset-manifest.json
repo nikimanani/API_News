@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/API_News/static/css/main.e6c13ad2.css",
+    "main.js": "/API_News/static/js/main.6998f87e.js",
+    "static/js/787.9a748b14.chunk.js": "/API_News/static/js/787.9a748b14.chunk.js",
+    "index.html": "/API_News/index.html",
+    "main.e6c13ad2.css.map": "/API_News/static/css/main.e6c13ad2.css.map",
+    "main.6998f87e.js.map": "/API_News/static/js/main.6998f87e.js.map",
+    "787.9a748b14.chunk.js.map": "/API_News/static/js/787.9a748b14.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6998f87e.js"
+  ]
+}
